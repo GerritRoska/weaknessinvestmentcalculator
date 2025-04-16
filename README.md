@@ -27,9 +27,8 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/GerritRoska/WeaknessInvestmentCalculator.git
-cd WeaknessInvestmentCalculator
-
+git clone https://github.com/GerritRoska/weaknessinvestmentcalculator.git
+cd weaknessinvestmentcalculator
 ```
 ### 2. Install Dependencies  
 ```bash
